@@ -13,6 +13,7 @@ To Simulate Triangular-wave-generator using Op-amp
 
 
   **Output waveform**
+  <img width="1067" height="1285" alt="image" src="https://github.com/user-attachments/assets/f0f101cb-c9c3-44fd-8561-893d0fa16311" />
 
 
 
